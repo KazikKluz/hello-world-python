@@ -6,6 +6,7 @@ Provides functions for adding and multiplying numbers.
 Functions:
     add(a, b): Returns the sum of two numbers.
     mult(a, b): Returns the product of two numbers.
+    Small changes for new pull
 """
 
 
