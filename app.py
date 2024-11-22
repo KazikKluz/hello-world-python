@@ -1,5 +1,5 @@
 def hello():
-    return 'Hello, CI World!'
+    return 'Hello, CI World! testing'
 
 
 if __name__ == '__main__':
