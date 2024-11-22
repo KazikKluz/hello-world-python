@@ -1,8 +1,21 @@
+"""
+Module providing arithmetic functions.
+
+Provides functions for adding and multiplying numbers.
+
+Functions:
+    add(a, b): Returns the sum of two numbers.
+    mult(a, b): Returns the product of two numbers.
+"""
+
+
 def hello():
+    """Prints Hello message"""
     return 'Hello, CI World!'
 
 
 def add(a, b):
+    """Add two numbers"""
     return a + b
 
 
